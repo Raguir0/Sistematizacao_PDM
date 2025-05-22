@@ -41,17 +41,17 @@ Oferecer uma solução simples, prática e eficiente para gerenciamento de taref
 
 ## ⚙️ Requisitos Funcionais
 
-- [x] CRUD completo com SQLite
-- [x] Persistência de dados local
-- [x] Mínimo de 3 telas funcionais
-- [x] Validação de campos obrigatórios
-- [x] Notificações locais para lembretes
+- ✔️ CRUD completo com SQLite
+- ✔️ Persistência de dados local
+- ✔️ Mínimo de 3 telas funcionais
+- ✔️ Validação de campos obrigatórios
+- ✔️ Notificações locais para lembretes
 
 ## 📈 Requisitos Não Funcionais
 
-- [x] Performance otimizada
-- [x] Compatível com Android 6.0 (API 23) ou superior
-- [x] Design responsivo e acessível
+- ✔️ Performance otimizada
+- ✔️ Compatível com Android 6.0 (API 23) ou superior
+- ✔️ Design responsivo e acessível
 
 ---
 
