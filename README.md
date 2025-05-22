@@ -57,9 +57,9 @@ Oferecer uma solução simples, prática e eficiente para gerenciamento de taref
 
 ## 📦 Extras (opcional)
 
-- [x] Modo Escuro (Dark Mode)
-- [x] Integração com API de calendário ou produtividade
-- [x] Uso do sensor de localização (GPS) para tarefas por local
+- ✔️ Modo Escuro (Dark Mode)
+- ✔️ Integração com API de calendário ou produtividade
+- ✔️ Uso do sensor de localização (GPS) para tarefas por local
 
 ---
 
