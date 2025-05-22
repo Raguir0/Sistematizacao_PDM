@@ -22,7 +22,7 @@ Oferecer uma solução simples, prática e eficiente para gerenciamento de taref
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem:** Kotlin (ou Java, dependendo da escolha do grupo)
+- **Linguagem:** Kotlin
 - **Banco de dados local:** SQLite
 - **IDE:** Android Studio
 - **UI:** Material Design
@@ -70,18 +70,14 @@ Oferecer uma solução simples, prática e eficiente para gerenciamento de taref
 
 ---------------
 
-👥 Integrantes do Grupo
-Nome: Gabriel
+## 👥 Integrantes do Grupo
 
-Nome: João Paulo B
-
-Nome: Lucas Martins
-
-Nome: Marcus Vinicius Prefeito
-
-Nome: Ramon Rodrigues
-
-
+-  Gabriel
+-  João Paulo B
+-  Lucas Martins
+-  Marcus Vinicius Prefeito
+-  Ramon Rodrigues
+ 
 📚 Licença
  - MIT
 
